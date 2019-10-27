@@ -40,16 +40,4 @@ Penjelasannya : Jika a lebih dari b dan a lebih dari c, maka output bilangan a, 
 - =====================================
 - 30 Adalah Bilangan terbesar
 - =====================================
-=======
-> =====================================
-> program menentukan bilangan terbesar
-> =====================================
-> masukan 3 bilangan yang diinginkan 
-> Bilangan 1 = 10
-> Bilangan 2 = 30
-> Bilangan 3 = 20
- =====================================
- 30 Adalah Bilangan terbesar
- =====================================
->>>>>>> d5a2610f84966681458cc3c469500acbc4872144
- Process finished with exit code 0
+- Process finished with exit code 0
