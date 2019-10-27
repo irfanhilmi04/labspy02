@@ -1,5 +1,6 @@
-#Program sederhana untuk menentukan bilangan terbesar
-##coding
+# Program sederhana untuk menentukan bilangan terbesar
+
+## coding
 1. print("--------------------------------------------")
 2. print("MEMBUAT PROGRAM MENENTUKAN BILANGAN TERBESAR")
 3. print("--------------------------------------------")
@@ -13,7 +14,7 @@
 11. elif c>a and c>b:
 12. print(c, "adalah angka terbesar")
 
-###penjelasan
+### penjelasan
 1. Pertama kita harus menginput bilangan pertama sampai bilangan ketiga. Codingnya :
 a=int(input(‘Bilangan 1 = ‘))
 b=int(input(‘Bilangan 2 = ‘))
@@ -26,7 +27,8 @@ print (b, ‘Adalah Bilangan terbesar’)
 else:
 print (c, ‘Adalah Bilangan terbesar’)
 Penjelasannya : Jika a lebih dari b dan a lebih dari c, maka output bilangan a, kalau bilangan a bukan bilangan terbesar maka lanjut ke bilangan b, jika b lebih dari a dan b lebih dari c maka bilangan b Adalah Bilangan terbesar, kalau a dan b bukan bilangan terbesar maka bilangan c Adalah bilangan yang terbesar.
-####output
+
+#### output
 =====================================
 PROGRAM MENENTUKAN BILANGAN TERBESAR
 =====================================
