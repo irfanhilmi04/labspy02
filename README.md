@@ -16,9 +16,9 @@
 
 ### penjelasan
 1. Pertama kita harus menginput bilangan pertama sampai bilangan ketiga. Codingnya :
-- a=int(input("Bilangan 1 = "))
-- b=int(input("Bilangan 2 = "))
-- c=int(input("Bilangan 3 = "))
+- a=int(input("Bilangan A = "))
+- b=int(input("Bilangan B = "))
+- c=int(input("Bilangan C = "))
 2. Selanjutnya kita menggunakan logika if dan Logika AND. Codingnya :
 - if a>b and a>c:
 - print (a, "Adalah Bilangan terbesar")
@@ -33,10 +33,10 @@
 - PROGRAM MENENTUKAN BILANGAN TERBESAR
 - =====================================
 - Masukkan 3 Bilangan yang diinginkan!
-- Bilangan 1 = 10
-- Bilangan 2 = 30
-- Bilangan 3 = 20
+- Bilangan A = 10
+- Bilangan B = 40
+- Bilangan C = 30
 - =====================================
-- 30 Adalah Bilangan terbesar
+- 40 Adalah Bilangan terbesar
 - =====================================
 - Process finished with exit code 0
