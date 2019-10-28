@@ -41,3 +41,8 @@
 - 40 Adalah Bilangan terbesar
 - =====================================
 - Process finished with exit code 0
+
+# flowchart
+
+![Capture](https://user-images.githubusercontent.com/56240221/67644852-8cba4780-f957-11e9-962b-e629dd29f740.JPG)
+
