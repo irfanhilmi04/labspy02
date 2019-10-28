@@ -27,8 +27,9 @@
 - elif c>b and c>b:
 - print (c, "Adalah Bilangan terbesar")
 - Penjelasannya : Jika a lebih dari b dan a lebih dari c, maka output bilangan a, kalau bilangan a bukan bilangan terbesar maka lanjut ke bilangan b, jika b lebih dari a dan b lebih dari c maka bilangan b Adalah Bilangan terbesar, kalau a dan b bukan bilangan terbesar maka bilangan c Adalah bilangan yang terbesar.
-
+![Untitled](https://user-images.githubusercontent.com/56240221/67644048-a7d58900-f950-11e9-9890-8e907be311f3.jpg)
 #### output
+![Untitled1](https://user-images.githubusercontent.com/56240221/67644105-e9feca80-f950-11e9-85a8-131b7a34e3b8.jpg)
 - =====================================
 - PROGRAM MENENTUKAN BILANGAN TERBESAR
 - =====================================
